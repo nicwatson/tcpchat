@@ -4,7 +4,7 @@ A program implementing a simple, two-way text chat protocol in ANSI C, using POS
 
 ## Compiling
 
-Compile with: `	gcc -ansi -Wall TCPChat.c TCPChatClient.c TCPChatServer.c HandlePeer.c DieWithError.c -o tcpchat`
+Compile with: `gcc -ansi -Wall TCPChat.c TCPChatClient.c TCPChatServer.c HandlePeer.c DieWithError.c -o tcpchat`
 
 ## Usage
 
